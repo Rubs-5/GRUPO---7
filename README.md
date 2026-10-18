@@ -1,4 +1,4 @@
-##Sistema Bancario (Banco Nacional del Ahorro)  
+## Sistema Bancario
 
 ### Descripción
 Un sistema simulado en Python que modela el funcionamiento básico de una institución financiera. Su objetivo principal es aplicar los pilares de la Programación Orientada a Objetos (POO), permitiendo registrar clientes y gestionar cuentas de ahorro y corrientes mediante operaciones reales como depósitos, retiros, transferencias y cierres de mes.
